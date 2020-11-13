@@ -1,1 +1,1 @@
-# all_my_neural_networks
+# 1. Fully connected network without Tensorflow
