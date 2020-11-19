@@ -43,17 +43,12 @@ List of all networks:
 # 2. Feed forward neural networks (FF or FFNN)
  
 #### _Notes:_ 
-
 2. are very straight forward - they feed information from the front to the back (input and output, respectively).
-
 3. One usually trains FFNNs through back-propagation, giving the network paired datasets of “what goes in” and “what we want to have coming out”
- 
 4. The error being back-propagated is often some variation of the difference between the input and the output (like MSE or just the linear difference).
-
 5. supervised learning
 through back-propagation, giving the network paired datasets of “what goes in” and “what we want to have coming out”.
-
-unsupervised learning
+6.unsupervised learning
 where we only give it input and let the network fill in the blanks.
 
 #### _Train processe :_
