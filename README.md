@@ -1,5 +1,3 @@
-# All types Neural Networks
-
 ![](https://penseeartificielle.fr/wp-content/uploads/2019/06/compilation-r%C3%A9seaux-de-deep-learning.png)
 
 List of all networks:
@@ -34,15 +32,14 @@ List of all networks:
 | 26. Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)  | - |
 | 27. Attention networks (AN)  | - |
 
-## 1. Perceptrons (P)
-#### Notes:     
+# 1. Perceptrons (P)
+#### _Notes:_ 
 1. The simplest somewhat practical network has two input cells and one output cell, which can be used to model logic gates.
-#### Train processe :
-#### Model : 
 
-✓ [Fully connected network without Tensorflow](https://github.com/aoisohei/all_types_neural_networks/blob/main/1_fully_connected_network_without_Tensorflow.ipynb)
+#### _Train processe :_
+#### _Model :_ ✓ [Fully connected network without Tensorflow](https://github.com/aoisohei/all_types_neural_networks/blob/main/1_fully_connected_network_without_Tensorflow.ipynb)
 
-## 2. Feed forward neural networks (FF or FFNN)
+# 2. Feed forward neural networks (FF or FFNN)
  
 #### _Notes:_ 
 
@@ -61,10 +58,10 @@ where we only give it input and let the network fill in the blanks.
 #### _Train processe :_
 #### _Model :_
  
-## 3. Radial basis function (RBF)
+# 3. Radial basis function (RBF)
 1. networks are FFNNs with radial basis functions as activation functions.). Et volia. Juste on ne donne pas les noms aux autres reseaux  avec propres function activation
 
-## 4. Recurrent neural networks (RNN)
+# 4. Recurrent neural networks (RNN)
 
 #### _Notes:_ 
 
@@ -79,7 +76,7 @@ where we only give it input and let the network fill in the blanks.
 #### _Model :_
 
 
-## 5. Long / short term memory (LSTM)
+# 5. Long / short term memory (LSTM)
 #### _Notes:_ 
 
 1. Les réseaux tentent de combattre le problème du gradient de disparition / explosion en introduisant des portes(gates) et une cellule mémoire explicitement définie.
@@ -87,7 +84,7 @@ where we only give it input and let the network fill in the blanks.
 #### _Train processe :_
 #### _Model :_
 
-## 6. Gated recurrent units (GRU)
+# 6. Gated recurrent units (GRU)
 #### _Notes:_ 
 
 Bidirectional recurrent neural networks, bidirectional long / short term memory networks and bidirectional gated recurrent units (BiRNN, BiLSTM and BiGRU respectively)
@@ -98,107 +95,107 @@ Autoencoders (AE)
  
 
  
-## 7. Variational autoencoders (VAE)
+# 7. Variational autoencoders (VAE)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 8. Denoising autoencoders (DAE)
+# 8. Denoising autoencoders (DAE)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 9. Sparse autoencoders (SAE)
+# 9. Sparse autoencoders (SAE)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 10. Markov chains (MC or discrete time Markov Chain, DTMC)
+# 10. Markov chains (MC or discrete time Markov Chain, DTMC)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 11. Hopfield network (HN)
+# 11. Hopfield network (HN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 12. Boltzmann machines (BM)
+# 12. Boltzmann machines (BM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 13. Restricted Boltzmann machines (RBM)
+# 13. Restricted Boltzmann machines (RBM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 14. Deep belief networks (DBN)
+# 14. Deep belief networks (DBN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 15. Convolutional neural networks (CNN or deep convolutional neural networks, DCNN) 
+# 15. Convolutional neural networks (CNN or deep convolutional neural networks, DCNN) 
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 16. Deconvolutional networks (DN)
+# 16. Deconvolutional networks (DN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 17. Deep convolutional inverse graphics networks (DCIGN)
+# 17. Deep convolutional inverse graphics networks (DCIGN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 18. Generative adversarial networks (GAN)
+# 18. Generative adversarial networks (GAN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 19. Liquid state machines (LSM)
+# 19. Liquid state machines (LSM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 20. Extreme learning machines (ELM)
+# 20. Extreme learning machines (ELM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 21. Echo state networks (ESN)
+# 21. Echo state networks (ESN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 22. Deep residual networks (DRN)
+# 22. Deep residual networks (DRN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 23. Neural Turing machines (NTM)
+# 23. Neural Turing machines (NTM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 24. Differentiable Neural Computers (DNC)
+# 24. Differentiable Neural Computers (DNC)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 25. Capsule Networks (CapsNet)
+# 25. Capsule Networks (CapsNet)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 26. Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)
+# 26. Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
  
-## 27. Attention networks (AN)
+# 27. Attention networks (AN)
 #### _Notes:_ 
 #### _Train processe :_
 #### _Model :_
