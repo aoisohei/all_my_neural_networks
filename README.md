@@ -6,8 +6,8 @@ List of all networks:
 
 | Model  | Status de crestion |
 | ------------- | ------------- |
-| 1. Perceptrons (P)  | ✓  |
-| 2. Feed forward neural networks (FF or FFNN)  | en cours...   |
+| 1. Perceptrons (P)  | en cours...   |
+| 2. Feed forward neural networks (FF or FFNN)  | ✓  |
 | 3. Radial basis function (RBF)  | -  |
 | 4. Recurrent neural networks (RNN)  | -  |
 | 5. Long / short term memory (LSTM)  | -  |
@@ -37,9 +37,8 @@ List of all networks:
 # 1. Perceptrons (P)
 #### _Notes:_ 
 1. The simplest somewhat practical network has two input cells and one output cell, which can be used to model logic gates.
-
 #### _Train processe :_
-#### _Model :_ ✓ [Fully connected network without Tensorflow](https://github.com/aoisohei/all_types_neural_networks/blob/main/1_fully_connected_network_without_Tensorflow.ipynb)
+#### _Model :_ 
 
 # 2. Feed forward neural networks (FF or FFNN)
  
@@ -59,6 +58,8 @@ where we only give it input and let the network fill in the blanks.
 
 #### _Train processe :_
 #### _Model :_
+
+✓ [Fully connected network without Tensorflow](https://github.com/aoisohei/all_types_neural_networks/blob/main/1_fully_connected_network_without_Tensorflow.ipynb)
  
 # 3. Radial basis function (RBF)
 1. networks are FFNNs with radial basis functions as activation functions.). Et volia. Juste on ne donne pas les noms aux autres reseaux  avec propres function activation
