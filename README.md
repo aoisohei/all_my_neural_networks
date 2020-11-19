@@ -9,13 +9,13 @@ My reposytory has next neural networks :
 
 List of all networks:
 
-Perceptrons (P)
-
-    
+## Perceptrons (P)
+#### Notes:     
 1. The simplest somewhat practical network has two input cells and one output cell, which can be used to model logic gates.
- 
+#### Train processe :
+#### Model :
 
-Feed forward neural networks (FF or FFNN)
+## Feed forward neural networks (FF or FFNN)
  
 
 2. are very straight forward - they feed information from the front to the back (input and output, respectively).
@@ -31,70 +31,72 @@ unsupervised learning
 where we only give it input and let the network fill in the blanks.
 
  
-Radial basis function (RBF)
+## Radial basis function (RBF)
 1. networks are FFNNs with radial basis functions as activation functions.). Et volia. Juste on ne donne pas les noms aux autres reseaux  avec propres function activation
 
-Recurrent neural networks (RNN)
+## Recurrent neural networks (RNN)
  
 1. are FFNNs with a time twist. / FFNN avec une torsion temporelle
-2.: ils sont sans état; ils ont des connexions entre les passes, des connexions dans le temps.
+2. ils sont sans état; ils ont des connexions entre les passes, des connexions dans le temps.
 3. Les neurones reçoivent des informations non seulement de la couche précédente, mais également d'eux-mêmes de la passe précédente. - Cela signifie que l'ordre dans lequel vous alimentez l'entrée et formez le réseau est important: le nourrir de «lait» puis de «cookies» peut donner des résultats différents par rapport à l'alimentation de «cookies» puis de «lait».
 2 . Un gros problème avec les RNN est le problème du gradient de disparition (ou d'explosion) où, selon les fonctions d'activation utilisées, les informations se perdent rapidement avec le temps, tout comme les FFNN très profonds perdent des informations en profondeur.
 3. Les RNN peuvent en principe être utilisés dans de nombreux domaines car la plupart des formes de données qui n'ont pas réellement de chronologie (c'est-à-dire contrairement au son ou à la vidéo) peuvent être représentées sous forme de séquence.
 4. Une image ou une chaîne de texte peut être alimentée un pixel ou un caractère à la fois, de sorte que les pondérations dépendant du temps sont utilisées pour ce qui précède dans la séquence, et non en fait à partir de ce qui s'est passé x secondes auparavant. En général, les réseaux récurrents sont un bon choix pour faire avancer ou compléter des informations, comme la saisie semi-automatique.
 
-Long / short term memory (LSTM)
+## Long / short term memory (LSTM)
 
  
 
 1. Les réseaux tentent de combattre le problème du gradient de disparition / explosion en introduisant des portes(gates) et une cellule mémoire explicitement définie.
 
-Gated recurrent units (GRU)
+## Gated recurrent units (GRU)
  
 Bidirectional recurrent neural networks, bidirectional long / short term memory networks and bidirectional gated recurrent units (BiRNN, BiLSTM and BiGRU respectively)
 Autoencoders (AE)
 
  
-Variational autoencoders (VAE)
+## Variational autoencoders (VAE)
  
-Denoising autoencoders (DAE)
+## Denoising autoencoders (DAE)
  
-Sparse autoencoders (SAE)
+## Sparse autoencoders (SAE)
  
-Markov chains (MC or discrete time Markov Chain, DTMC)
+## Markov chains (MC or discrete time Markov Chain, DTMC)
  
-Hopfield network (HN)
+## Hopfield network (HN)
  
-Boltzmann machines (BM)
+## Boltzmann machines (BM)
  
-Restricted Boltzmann machines (RBM)
+## Restricted Boltzmann machines (RBM)
  
-Deep belief networks (DBN)
+## Deep belief networks (DBN)
  
-Convolutional neural networks (CNN or deep convolutional neural networks, DCNN) 
+## Convolutional neural networks (CNN or deep convolutional neural networks, DCNN) 
  
-Deconvolutional networks (DN)
+## Deconvolutional networks (DN)
  
-Deep convolutional inverse graphics networks (DCIGN)
+## Deep convolutional inverse graphics networks (DCIGN)
  
-Generative adversarial networks (GAN)
+## Generative adversarial networks (GAN)
  
-Liquid state machines (LSM)
+## Liquid state machines (LSM)
  
-Extreme learning machines (ELM)
+## Extreme learning machines (ELM)
  
-Echo state networks (ESN)
+## Echo state networks (ESN)
  
-Deep residual networks (DRN)
+## Deep residual networks (DRN)
  
-Neural Turing machines (NTM)
+## Neural Turing machines (NTM)
  
-Differentiable Neural Computers (DNC)
+## Differentiable Neural Computers (DNC)
  
-Capsule Networks (CapsNet)
+## Capsule Networks (CapsNet)
  
-Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)
+## Kohonen networks (KN, also self organising (feature) map, SOM, SOFM)
  
-Attention networks (AN)
- 
+## Attention networks (AN)
+#### Notes: 
+#### Train processe :
+#### Model :
 
