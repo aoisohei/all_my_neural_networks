@@ -103,11 +103,9 @@ The result :
 tanh(x) = 0.92
 randian = 0.75
 
-***Read more :*** 
+***Read more :*** ![Hyperbolic Tangent Function](https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value)
 
-*Hyperbolic Tangent Function :* 
-https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value .
-
+*![Style](https://habr.com/ru/post/416211/)* 
 # Result
 Based on these functions (Softmax Function = 1, Hyperbolic Tangent = 0.92 (0.75) ), I go to the party.
 
