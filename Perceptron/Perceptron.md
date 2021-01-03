@@ -105,7 +105,7 @@ randian = 0.75
 
 - *[Wiki, explication of Softmax Function :](https://www.google.com/search?q=function+activation+softmax&oq=function+activation+softmax&aqs=chrome..69i57.6793j0j7&sourceid=chrome&ie=UTF-8)*
 
-- *[Hyperbolic Tangent Function](https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value) 
+- *[Hyperbolic Tangent Function](https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value)* 
 
 - *[Style of this file taken from this example](https://habr.com/ru/post/416211/)* 
 
