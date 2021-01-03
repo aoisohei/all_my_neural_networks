@@ -52,7 +52,9 @@ We have 0.475 + 0.545 + 0.61 = 1.63. We weill use it in Step 8.
 
 ## Step 8. Function activations : Softmax Function and Hyperbolic Tangent
 We have 0.475 + 0.545 + 0.61 = 1.63 :
+
 We will use \ 0.475 \ 0.545 \ 0.61 \ in Softmax Function ;
+
 And we will use \ 1.63 \ like x in  Hyperbolic Tangent.
 - ## Softmax Function
  
@@ -81,14 +83,6 @@ The result of code :
 1.0
 ```
 
-***Read more :*** 
-
-*Softmax Function with Python, Types of other functions :*
-https://machinelearningmastery.com/softmax-activation-function-with-python/
-
-*Wiki, explication of Softmax Function :*
-https://www.google.com/search?q=function+activation+softmax&oq=function+activation+softmax&aqs=chrome..69i57.6793j0j7&sourceid=chrome&ie=UTF-8
-
 - ## Hyperbolic Tangent
 ```
 x = 1.63
@@ -103,7 +97,15 @@ The result :
 tanh(x) = 0.92
 randian = 0.75
 
-***Read more :*** [Hyperbolic Tangent Function](https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value) and *[Style of this file taken from this example](https://habr.com/ru/post/416211/)* 
+***Read more :*** 
+
+- *[Softmax Function with Python, Types of other functions :](https://machinelearningmastery.com/softmax-activation-function-with-python/)*
+
+- *[Wiki, explication of Softmax Function :](https://www.google.com/search?q=function+activation+softmax&oq=function+activation+softmax&aqs=chrome..69i57.6793j0j7&sourceid=chrome&ie=UTF-8)*
+
+- *[Hyperbolic Tangent Function](https://sefiks.com/2017/01/29/hyperbolic-tangent-as-neural-network-activation-function/#:~:text=In%20neural%20networks%2C%20as%20an,for%20error%20effects%20on%20weights.&text=In%20other%20words%2C%20function%20produces%20output%20for%20every%20x%20value) and *[Style of this file taken from this example](https://habr.com/ru/post/416211/)* 
+
 # Result
-Based on these functions (Softmax Function = 1, Hyperbolic Tangent = 0.92 (0.75) ), I go to the party.
+Based on these functions (Softmax Function = 1, Hyperbolic Tangent = 0.92 (0.75) ).
+I go to the party.
 
