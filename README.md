@@ -136,6 +136,8 @@ Autoencoders (AE)
 # 15. Convolutional neural networks (CNN or deep convolutional neural networks, DCNN) 
 #### _Notes:_ 
 #### _Train processe :_
+ слои, расположенные глубже в сети, визуализируют больше конкретных функций обучающих данных, в то время как более ранние слои имеют тенденцию визуализировать общие шаблоны, такие как края, текстура, фони т. д
+ 
 #### _Model :_
  
 # 16. Deconvolutional networks (DN)
